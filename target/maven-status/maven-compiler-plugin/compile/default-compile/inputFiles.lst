@@ -1,0 +1,10 @@
+/home/fasoftwares/eclipse-workspace1/CRUDproject/src/main/java/com/fa/Controller/CrudController.java
+/home/fasoftwares/eclipse-workspace1/CRUDproject/src/main/java/com/fa/entity/LoginEntity.java
+/home/fasoftwares/eclipse-workspace1/CRUDproject/src/main/java/com/fa/repository/LoginRepo.java
+/home/fasoftwares/eclipse-workspace1/CRUDproject/src/main/java/com/fa/service/CrudService.java
+/home/fasoftwares/eclipse-workspace1/CRUDproject/src/main/java/com/fa/entity/CrudEntity.java
+/home/fasoftwares/eclipse-workspace1/CRUDproject/src/main/java/com/fa/demo/CruDprojectApplication.java
+/home/fasoftwares/eclipse-workspace1/CRUDproject/src/main/java/com/fa/repository/CrudRepository.java
+/home/fasoftwares/eclipse-workspace1/CRUDproject/src/main/java/com/fa/ServiceImplemnts/CrudServiceImplemnts.java
+/home/fasoftwares/eclipse-workspace1/CRUDproject/src/main/java/com/fa/dto/CrudDto.java
+/home/fasoftwares/eclipse-workspace1/CRUDproject/src/main/java/com/fa/CrudApplication.java

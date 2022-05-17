@@ -1,0 +1,10 @@
+com/fa/CrudApplication.class
+com/fa/service/CrudService.class
+com/fa/Controller/CrudController.class
+com/fa/entity/CrudEntity.class
+com/fa/demo/CruDprojectApplication.class
+com/fa/repository/CrudRepository.class
+com/fa/repository/LoginRepo.class
+com/fa/dto/CrudDto.class
+com/fa/entity/LoginEntity.class
+com/fa/ServiceImplemnts/CrudServiceImplemnts.class
